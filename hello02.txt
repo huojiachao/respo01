@@ -1,3 +1,8 @@
 huawei
+
 vivo
 oppo
+
+iphone
+xiaomi
+
